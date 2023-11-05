@@ -1,0 +1,15 @@
+{
+  "name": "monorepo-root",
+  "version": "0.0.0",
+  "private": true,
+  "nx": {},
+  "scripts": {
+    "graph": "nx reset && nx graph"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@nx/devkit": "17.0.3",
+    "nx": "17.0.3",
+    "typescript": "5.1.6"
+  }
+}
